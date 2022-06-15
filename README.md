@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sergiourionaherbas
 - 👀 I’m interested in continue improving my Frontend skills (javascript and typescript)
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning testing with Jest and Enzyme
 - 💞️ I’m looking to collaborate on projects related to React.js
 - 📫 How to reach me ...
 
